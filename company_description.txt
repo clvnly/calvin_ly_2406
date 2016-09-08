@@ -1,0 +1,38 @@
+What's the company's name?
+FastTrack.
+
+How many locations do they have? How many employees?
+One headquarter location, approx. 40 in office, approx. contracted 100 delivery agents.
+
+What do they sell or how do they generate revenue? 
+Contracted delivery agents (similar to Uber drivers)
+provide an efficient same-day delivery service for retail customers around NYC.
+
+Give an estimate of their gross annual revenue using logic similar to that used 
+by the Drake Equation that we discussed in class.
+$650,000
+
+Every company has some notion of a transaction, i.e. some
+set of operations that constitute the accomplishment of an objective or task. Examples of such transactions that
+drive a company's business operations are the sale of a retail item, an event ticket sale, a trouble ticket for
+technical support, a service of some kind like a trip by taxi or a lesson, a book loan, etc. This notion of
+transaction will permeate your design project, so clarify how it applies to your company. 
+
+
+What are the transactions that drive your company's operations?
+Client buys an item online, and requests a delivery.
+A delivery agent recieves the request and picks up the customer's item at the retail store.
+Transaction is completed when the client's item is delivered.
+
+How many of each type occurs per day?
+250.
+
+What data archiving and throughput requirements characterize your company? 
+Transaction logs, Delivery logs, customer information.
+
+A client is someone who seeks your company's services. You are in business to serve your clients. 
+Identify who the clients are of your company's business? 
+The general public.
+
+A supplier is a person or organization that your company relies on to do business. Who are your
+company's suppliers? 

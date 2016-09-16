@@ -1,38 +1,40 @@
-What's the company's name?
+1. What's the company's name?
 FastTrack.
 
-How many locations do they have? How many employees?
-One headquarter location, approx. 40 in office, approx. contracted 100 delivery agents.
+2. How many locations do they have?
+Three office locations. Brooklyn, Manhattan, Queens.
 
-What do they sell or how do they generate revenue? 
-Contracted delivery agents (similar to Uber drivers)
-provide an efficient same-day delivery service for retail customers around NYC.
+3. How many employees?
+40 office personnel and 30 delivery agents for each location. 210 employees total.
 
-Give an estimate of their gross annual revenue using logic similar to that used 
-by the Drake Equation that we discussed in class.
-$650,000
+4. What do they sell or how do they generate revenue? 
+Contracted delivery agents provide an efficient same-day delivery service for retail customers around NYC.
 
-Every company has some notion of a transaction, i.e. some
-set of operations that constitute the accomplishment of an objective or task. Examples of such transactions that
-drive a company's business operations are the sale of a retail item, an event ticket sale, a trouble ticket for
-technical support, a service of some kind like a trip by taxi or a lesson, a book loan, etc. This notion of
-transaction will permeate your design project, so clarify how it applies to your company. 
+5. Give an estimate of their gross annual revenue.
+Company's pricing point is $3 plus 5% of the item's value * miles. Company estimate of 630 deliveries every day, and according to a report from eDataSource, the average online order value is ~$47. Assume average order distance is 7 miles.
+$3 + (($47 * 0.05) * (7 miles)) = $19.45 for each individual order. 
+$19.45 * 630 orders every day = $12,253.50
+$12,253.50 * 30 days in a month = $367,605 a month.
+$367,605 * 12 months in a year = $4,411,260 gross annual revenue.
 
-
-What are the transactions that drive your company's operations?
+6. What are the transactions that drive your company's operations?
 Client buys an item online, and requests a delivery.
-A delivery agent recieves the request and picks up the customer's item at the retail store.
+A delivery agent recieves the request and picks up the customer's item at the retail store. The delivery agent may be tracked via GPS.
 Transaction is completed when the client's item is delivered.
 
-How many of each type occurs per day?
-250.
+7. How many of each type occurs per day?
+Assuming delivery agents work a standard 8 hours a day, and each delivery takes one hour to complete, a delivery agent may take on 6-7 deliveries every day.
+There are 30 delivery agents for each office location. This company has three locations. 7 deliveries * 30 agents * 3 locations = 630 delivery transactions every day.
 
-What data archiving and throughput requirements characterize your company? 
-Transaction logs, Delivery logs, customer information.
+8. What data archiving and throughput requirements characterize your company? 
+The company will primarily use the information system for delivery requests. Each request will contain customer name, customer date of birth, location (of both the customer and the retailer), payment information. Order tracking information via GPS may be used as well.
 
-A client is someone who seeks your company's services. You are in business to serve your clients. 
-Identify who the clients are of your company's business? 
-The general public.
+9. Identify who the clients are of your company's business? 
+Customers will use the information system to request deliveries. 
+Delivery agents will use the information system to recieve delivery requests.
+Front office personnel may want to use the information system for reports on business operations (quarterly revenue, net gains, etc).
 
-A supplier is a person or organization that your company relies on to do business. Who are your
+10. A supplier is a person or organization that your company relies on to do business. Who are your
 company's suppliers? 
+Commercial insurance provider.
+Company vehicle provider (cars, vans, trucks, motorcycles).

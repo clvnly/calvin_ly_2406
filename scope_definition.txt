@@ -1,0 +1,12 @@
+14. What information system is being proposed to be designed?
+A Transaction Processing System.
+
+15. Describe why the company needs it and why the company would be better off after it is in place.
+Provides the company with a reliable and easy to use system that would greatly accelerate the sales transaction process, as opposed to working with traditional pen and paper.
+
+16. Provide an estimate of how long it will take to design, implement, and install it.
+3 months to design, 4 months to implement, 2 months to install. Total 9 months.
+
+17. Provide an estimate of how much will the system design, implementation, and installation cost?
+
+18. Provide an estimate of how many people will be needed to carry out everything?

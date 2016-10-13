@@ -19,7 +19,7 @@ $367,605 * 12 months in a year = $4,411,260 gross annual revenue.
 
 6. What are the transactions that drive your company's operations?
 Client buys an item online, and requests a delivery.
-A delivery agent recieves the request and picks up the customer's item at the retail store. The delivery agent may be tracked via GPS.
+A delivery agent receives the request and picks up the customer's item at the retail store. The delivery agent may be tracked via GPS.
 Transaction is completed when the client's item is delivered.
 
 7. How many of each type occurs per day?
@@ -28,10 +28,12 @@ There are 30 delivery agents for each office location. This company has three lo
 
 8. What data archiving and throughput requirements characterize your company? 
 The company will primarily use the information system for delivery requests. Each request will contain customer name, customer date of birth, location (of both the customer and the retailer), payment information. Order tracking information via GPS may be used as well.
+Each character is 1 byte. A customer's name may be up to 20 characters. Date of birth in a MM/DD/YYYY format may be up to 8 characters. Address of both the customer and the retailer may be up to 20 characters respectively. Customer telephone number is 10 digits. A debit/credit card for payment is 16 digits plus a 3 digit CVV number.
+Total 97 bytes for each order. 97 * 630 delivery transactions every day = ~61 KB.
 
 9. Identify who the clients are of your company's business? 
 Customers will use the information system to request deliveries. 
-Delivery agents will use the information system to recieve delivery requests.
+Delivery agents will use the information system to receive delivery requests.
 Front office personnel may want to use the information system for reports on business operations (quarterly revenue, net gains, etc).
 
 10. A supplier is a person or organization that your company relies on to do business. Who are your

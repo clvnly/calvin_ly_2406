@@ -1,0 +1,27 @@
+Github Scenarios-
+Scenario 1 (No flash drive, public computer, existing repo): 
+	1. Install Git.
+	2. Enter "git clone https://www.github.com/Squash_addict/ramy_ashour_2406/"
+	3. Work on desired files.
+	4. Enter "git add <file_name>"
+	5. Enter "git commit -m "<message>" "
+	6. Enter "git push origin master"
+Scenario 2 (Private computer):
+	0. Install Git if it is not installed.
+	1. Enter "git clone https://www.github.com/Squash_addict/ramy_ashour_2406/"
+	2. To remove a file from a project, enter "git rm <filename>"
+
+Scenario 3 (Repo on flash drive, public computer):
+	1. Install Git
+	2. Enter "git add <file_name>"
+	3. Enter "git commit -m "<message>" "
+	4. Enter "get push origin master"
+
+Scenario 4 (Two or more private computers, multiple participants):
+
+	0. Install Git if it is not installed.
+	1. Modify desired files on disk.
+	2. Enter "git add <file_name>"
+	3. Enter "git commit -m "<message>""
+	4. Enter "git push origin master"
+	5. Enter "git pull origin master"

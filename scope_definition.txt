@@ -7,7 +7,7 @@ The information system provides the company with a reliable and easy to use syst
 as opposed to working off of customer emails and traditional pen and paper.
 
 16. Provide an estimate of how long it will take to design, implement, and install it.
-3 months to design, 3 months to implement, 2 months to install. Total 8 months.
+1 month to plan, 2 months of analysis, 4 months to design, 3 months to implement and 2 months install. Total 12 months.
 
 17. Provide an estimate of how much will the system design, implementation, and installation cost?
 

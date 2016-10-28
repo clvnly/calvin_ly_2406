@@ -24,4 +24,4 @@ Scenario 4 (Two or more private computers, multiple participants):
 	2. Enter "git add <file_name>"
 	3. Enter "git commit -m "<message>""
 	4. Enter "git push origin master"
-	5. Enter "git pull origin master"
+	5. Enter "git pull"

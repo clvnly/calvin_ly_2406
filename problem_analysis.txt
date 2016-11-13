@@ -1,0 +1,11 @@
+19. The company currently receives orders via e-mail, which contains customer information and payment information. A person must check each individual order if
+the payment was successful. Under this current system, order information is prone to error, and difficult to process.
+The massive amount of order requests via e-mails is also cumbersome to process, there is no sorting system in place. Additional manpower is required to individually check
+each order if the customer payment was successful; this dramatically slows down the speed of processing orders.
+This system is also not popular among customers, as they have voiced concerns about security and vulnerability.
+Customers also want an online account system to make it easier to request deliveries and to save information about previous deliveries.
+
+20. System improvement objectives:
+(1) Greatly speed up the time in which orders are processed.
+(2)Reduce the amount of incomplete orders.
+(3)Increase customer trust and satisfaction with the delivery request process. This will be tracked via customer surveys before and after the system is implemented.

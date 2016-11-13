@@ -1,0 +1,13 @@
+21. System must (1)receive and process customer requests.
+It must also have (2)fast performance and (3)ease of use.
+
+22. System must (4)provide complete transactions with suppliers.
+The system must have (5)continuous availability and have (6)data integrity.
+
+23. System allows administrators to (7)retrieve and modify data from transactions.
+It must also be (8)modular, meaning it should be capable of incremental growth instead of replacing it with a completely new system.
+Able to (9)add, replace, or update hardware/software without shutting down the system.
+
+24. System must be able to (10)process and report information about transactions made over a period of time.
+System is able to (11)calculate gross revenue from one or more branches.
+System is able to (12)calculate the usage rate of delivery agents in a branch, allowing top management to make decisions to recruit or downsize.

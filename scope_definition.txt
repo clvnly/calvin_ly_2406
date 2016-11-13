@@ -10,6 +10,11 @@ as opposed to working off of customer emails and traditional pen and paper.
 1 month to plan, 2 months of analysis, 4 months to design, 3 months to implement and 2 months install. Total 12 months.
 
 17. Provide an estimate of how much will the system design, implementation, and installation cost?
+To estimate the cost, add the salaries of the people needed to create the system. The total time is 12 months, add up a year's salary for each member of the design team.
+System Analyst ($82,710), Database Architect ($111,476), Network Architect ($91,000), Graphic Designer ($44,150), Security Consultant ($81,555)
+Project Manager ($98,588), Application Programmer ($71,261) Systems Programmer ($75,343), Database Admin ($77,080), Web developer ($62,500)
+Network Administrator ($72,560), System Administrator ($75,790)
+Total: $944,013
 
 18. Provide an estimate of how many people will be needed to carry out everything?
 Design: System Analyst, Database Architect, Network Architect, graphic designer, Security consultant.

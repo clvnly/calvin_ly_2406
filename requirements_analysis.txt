@@ -1,13 +1,13 @@
-21. System must (1)receive and process customer requests.
-It must also have (2)fast performance and (3)ease of use.
+21. System must (1)receive and process customer delivery requests.
+It must be able to (2)create and (3)modify user accounts.
 
-22. System must (4)provide complete transactions with suppliers.
+22. System must (4)have separate business accounts for suppliers.
 The system must have (5)continuous availability and have (6)data integrity.
 
-23. System allows administrators to (7)retrieve and modify data from transactions.
-It must also be (8)modular, meaning it should be capable of incremental growth instead of replacing it with a completely new system.
+23. System allows administrators to (7)retrieve and/or modify data from transactions.
+It must also allow administrators to (8)change how the delivery rate is calculated if any changes are made.
 Able to (9)add, replace, or update hardware/software without shutting down the system.
 
 24. System must be able to (10)process and report information about transactions made over a period of time.
-System is able to (11)calculate gross revenue from one or more branches.
-System is able to (12)calculate the usage rate of delivery agents in a branch, allowing top management to make decisions to recruit or downsize.
+System is able to (11)calculate gross profit from one or more branches.
+System is able to (12)calculate the utilization rate of delivery agents in a branch, allowing top management to make decisions to recruit or downsize.

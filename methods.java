@@ -4,8 +4,9 @@ public int create_user(String username, String password, int creditcard, String 
 public void modify_user(String username, String password, int creditcard, String home_address);
 
 
-public int delivery_request(int creditcard, String home_address, String item_desc, double gps_x, double_gps_y);
+public int delivery_request(int creditcard, String home_address, String item_desc, double gps_x, double gps_y);
 
+public double calc_deliveryRate(double weight, double time, double distance);
 
 public double calc_grossProfit(int total_sales, int total_costs);
 

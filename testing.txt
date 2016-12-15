@@ -1,0 +1,10 @@
+1. Submit a blank username or password in the login menu.
+2. Enter an invalid home address.
+3. Submit a delivery request with an invalid address/GPS location.
+4. Submit a delivery request without required information about the item (item name, location, etc.)
+5. Submit a delivery request of an item with a very long string of characters.
+6. Enter a credit card number that has more than 12 numbers.
+7. Submit a delivery request of a location too far away from the business location.
+8. Calculating a gross profit amount over a long period of time (1 year+).
+9. Calculating utilization rate for delivery agents over a long period of time (1 year+).
+10. Flooding the system with many delivery requests at once.
